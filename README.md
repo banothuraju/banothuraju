@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Build Status](https://dev.azure.com/BR00834699/Azure%20DevOps/_apis/build/status%2Fbanothuraju.banothuraju?branchName=main)](https://dev.azure.com/BR00834699/Azure%20DevOps/_build/latest?definitionId=1&branchName=main)## Hi there 👋
 
 <!--
 **banothuraju/banothuraju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
